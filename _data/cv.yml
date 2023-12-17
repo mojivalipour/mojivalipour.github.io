@@ -92,7 +92,7 @@
         - University Best Student Award
     - year: 2014
       items: 
-        - Minisitry of Science, Research and Technology Award
+        - Ministry of Science, Research and Technology Award
 
 - title: Academic Interests
   type: nested_list
@@ -109,4 +109,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Digital Games, Movies, Volleyball, etc.
+    - <u>Hobbies:</u> Digital Games, Movies, Chess, etc.
