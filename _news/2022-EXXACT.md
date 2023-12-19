@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper SymbolicGPT featured in <a href="https://www.exxactcorp.com/blog/Deep-Learning/neural-symbolic-regression-distilling-science-from-data">EXXACT Corp Blog</a>
+Our paper SymbolicGPT has been featured in <a href="https://www.exxactcorp.com/blog/Deep-Learning/neural-symbolic-regression-distilling-science-from-data">EXXACT Corp Blog</a>
