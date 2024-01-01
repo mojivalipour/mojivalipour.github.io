@@ -2,9 +2,9 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: I am not using one active repository for different reasons. Most of the companies that I am working with have their own internal version control system. However, I love to participate in open-source world so I will actively looking for opportunities to contribute and you can see some of them here
+description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 ## GitHub users

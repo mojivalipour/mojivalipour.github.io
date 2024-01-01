@@ -2,27 +2,25 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/david-r-cheriton-school-computer-science/doctor-philosophy-phd-computer-science-internship'>PhD @ University of Waterloo</a> and MBET @ Conrad School 
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: profile.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>I am building AGI</p>
-    <p>Interested?</p>
-    <p>Ping Me</p>
+    <p>555 your office number</p>
+    <p>123 your address street</p>
+    <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
-latest_posts: false  # includes a list of the newest posts
+latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PhD candidate in Computer Science at the University of Waterloo supervised by Ali Ghodsi. I am going to finish the PhD soon and I am looking for the best opportunity possible. If you have an offer, don't hesitate to send me an email.
+Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-I have a strong background in Machine Learning, I am a <a href="https://confirm.udacity.com/ZDYXCK2J">certified Self-Driving Car Engineer</a>, and I am very much familiar with both Natural Language Processing (NLP) and Computer Vision (CV)'s most recent techniques in the literature. The PhD gave me strong insights as I worked on many different projects and I think I had the chance to learn a lot. Now I am ready to contribute on much larger more impactful projects.
+Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-I am a good enginner with good design skills that can lead any complex projects and can work with any person. I have an entrepreneurial mindset and I am ready to change the world!
-
-If you want to find my most recent research ideas, and you are looking for collaboration, please feel free to sign-up at <a href="https://daneshbaz.com">Daneshbaz.com</a> and add your comments on the papers that interests you.
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
