@@ -1,12 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - mojivalipour
+  - mvpcom
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - mojivalipour/symbolicgpt
+  - huawei-noah/KD-NLP/tree/main/DyLoRA
+  - mvpcom/CarND-Capstone
+  - mvpcom/CyberHandsFaraz
+  - mvpcom/carlaILTrainer
+  - mvpcom/ddCh2
+  - mvpcom/CarND-Semantic-Segmentation
+  - mojivalipour/nnscratch
