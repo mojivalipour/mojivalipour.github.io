@@ -16,6 +16,15 @@
   abstract={Feature vectors provided by pre-trained deep artificial neural networks have become a dominant source for image representation in recent literature. Their contribution to the performance of image analysis can be improved through fine-tuning. As an ultimate solution, one might even train a deep network from scratch with the domain-relevant images, a highly desirable option which is generally impeded in pathology by lack of labeled images and the computational expense. In this study, we propose a new network, namely KimiaNet, that employs the topology of the DenseNet with four dense blocks, fine-tuned and trained with histopathology images in different configurations. We used more than 240,000 image patches with  pixels acquired at 20magnification through our proposed “high-cellularity mosaic” approach to enable the usage of weak labels of 7126 whole slide images of formalin-fixed paraffin-embedded human pathology samples publicly available through The Cancer Genome Atlas (TCGA) repository. We tested KimiaNet using three public datasets, namely TCGA, endometrial cancer images, and colorectal cancer images by evaluating the performance of search and classification when corresponding features of different networks are used for image representation. As well, we designed and trained multiple convolutional batch-normalized ReLU (CBR) networks. The results show that KimiaNet provides superior results compared to the original DenseNet and smaller CBR networks when used as feature extractor to represent histopathology images.},
 }
 
+@article{rajabzadehqdylora,
+  title={QDyLoRA: Quantized Dynamic Low-Rank Adaptation for Efficient Large Language Model Tuning},
+  author={Rajabzadeh, Hossein and Valipour, Mojtaba and Tahaei, Marzieh and Kwon, Hyock Ju and Ghodsi, Ali and Chen, Boxing and Rezagholizadeh, Mehdi},
+  year={2024},
+  website={https://neurips2023-enlsp.github.io/papers/paper_84.pdf},
+  preview={qdylora.png},
+  abstract={Finetuning large language models requires huge GPU memory, restricting the choice to acquire Leger language models. While the quantized version of the Low-Rank Adaptation technique, named QLoRA, significantly alleviates this issue, finding the efficient LoRA rank is still challenging. Moreover, QLoRA is trained on a pre-defined rank and, therefore, cannot be reconfigured for its lower ranks without requiring fine-tuning steps. This paper proposes QDyLoRA-Quantized Dynamic Low-Rank Adaptation-, as an efficient quantization approach for dynamic low-rank adaptation. QDyLoRA combines the advantages of QLoRA with Dynamic LoRA to efficiently finetune LLMs on a set of pre-defined LoRA ranks. QDyLoRA enables fine-tuning Falcon-40b for ranks 1 to 64 on a single 32GiG V100-GPU through one round of fine-tuning. Experimental results show that QDyLoRA is competitive to QLoRA and outperforms when employing its optimal rank.},
+}
+
 @article{valipour2021symbolicgpt,
   title={Symbolicgpt: A generative transformer model for symbolic regression},
   author={Valipour, Mojtaba and You, Bowen and Panju, Maysum and Ghodsi, Ali},
