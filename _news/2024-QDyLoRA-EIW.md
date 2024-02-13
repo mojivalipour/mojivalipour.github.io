@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper QDyLoRA has been nominated for the best paper award in Neurips EIW 2024.
+Our paper QDyLoRA has been nominated for the best paper award in AAAI EIW 2024.
