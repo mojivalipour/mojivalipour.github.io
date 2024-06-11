@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper "SeeFar: Satellite Agnostic Multi-Resolution Dataset for Geospatial Foundation Models" is now available in Arxiv and it is under review! <a href=http://coastalcarbon.ai/seefar>SeeFAR Dataset</a>.
+Our paper "SeeFar: Satellite Agnostic Multi-Resolution Dataset for Geospatial Foundation Models" is now available in Arxiv and it is under review! <a href="http://coastalcarbon.ai/seefar">SeeFAR Dataset</a>.
